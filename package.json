@@ -1,0 +1,27 @@
+{
+  "name": "bowling-scorer",
+  "version": "1.0.0",
+  "description": "Bowling Scorer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paritosh149/bowling-scorer.git"
+  },
+  "keywords": [
+    "bowling",
+    "scorer"
+  ],
+  "author": "paritosh149",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paritosh149/bowling-scorer/issues"
+  },
+  "homepage": "https://github.com/paritosh149/bowling-scorer#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
